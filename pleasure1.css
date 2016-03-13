@@ -1,0 +1,96 @@
+* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+
+    }
+
+    header {
+        width: 800px;
+        background-color: #90abda;
+        padding: 10px;
+        font-size: 30px;
+        border: 3px solid  black;
+        display: block;
+        font-family: sans-serif;
+        text-align: center;
+        float: left;
+    }
+    nav {
+        padding: 10px;
+        width: 800px;
+        float: left;
+        border: 3px solid black;
+        display: block;
+        background-color: #90abda;
+        font-size: 20px;
+
+    }
+    nav ul {
+        padding: 10px;
+        border-bottom: ;
+        list-style-type: none;
+        position: relative;
+        left: 250;
+
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+    h3 {
+      font-family: sans-serif;
+      font-size: 20px;
+    }
+    .mytext {
+      padding-left: 30px;
+      padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      width: 600px;
+      font-size: 18px;
+      font-family: Helvetica;
+      background-color: gray;
+
+    }
+to join this conversation on GitHub. Already have an account? Sign in to comment
+
+    Status API Training Shop Blog About Pricing
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help
